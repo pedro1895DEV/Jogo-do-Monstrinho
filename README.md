@@ -1,5 +1,3 @@
-# Jogo do Monstrinho
+## Jogo do Monstrinho
 
-## Como jogar?
-
- use bla bla bla
+#jogo criado durante a disciplina de Programação orientada a objetos
